@@ -1,0 +1,33 @@
+Q.1)Draw a dfa for the language accepting strings ending with 0 our input alphabet sigma={0,1}?
+
+Q.2)Draw a dfa for the language accepting strings ending with 01 over input alphabet sigma={0,1}? 
+
+Q.3)Draw a dfa for the language accepting strings with 0 and 1 only our input alphabet sigma={0,1}?
+
+Q.4)Draw a dfa for the language accepting strings starting with 0 our input alphabet sigma={0,1}?
+
+Q.5)Draw a dfa for the language accepting strings with 0 only?
+
+Q.6)Draw a dfa for the language accepting strings starting with 00 our input alphabet sigma={0,1}?
+
+Q.7)Draw a dfa for the language accepting strings starting with 00 or 11 our input alphabet sigma={0,1}?
+
+Q.8)Draw a dfa for the language accepting even binary strings our input alphabet sigma={0,1}?
+
+Q.9)Draw a dfa for the language accepting odd binary strings our input alphabet sigma={0,1}?
+
+Q.10)Draw a dfa for the language accepting odd and Even binary strings our input alphabet sigma={0,1}?
+
+Q.11)Draw a dfa for the language accepting strings starting and Ending with Different Character's our input alphabet sigma={0,1}?
+
+Q.12)Draw a dfa for the language accepting strings starting and ending with same character our input alphabet sigma={0,1}?
+
+Q.13)Draw a dfa for the language accepting strings starting and ending with 0 only our input alphabet sigma={0,1}?
+
+Q.14)Draw a dfa for the language accepting strings such that each 0 is precided and followed by 1 our input alphabet sigma={0,1}?
+
+Q.15)Draw a nfa for the language accepting only strings staring with "aa" or "bb" our input alphabet sigma={a,b}?
+
+Q.16)Design NDFA INPUT alphabet sigma={a,b},That accepts all strings end with bbb or bab?
+
+Q.17)Design NDFA Accept all the string start with 1 and end with 0?
